@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://www.codewars.com/users/oibioib/badges/large" alt="My progress on codewars"/>
+</p>
+
+
 <!--
 **oibioib/oibioib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
