@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://www.codewars.com/users/oibioib/badges/large" alt="My progress on codewars"/>
+  <img src="https://www.codewars.com/users/rsschool_oibioib/badges/large" alt="My progress on codewars"/>
 </p>
 
 
