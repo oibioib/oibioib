@@ -28,3 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://www.codewars.com/users/oibioib/badges/micro" alt="oibioib's codewars"  />
+</div>
